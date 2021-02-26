@@ -1,0 +1,60 @@
+body {
+  background-color: chartreuse;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+#wrapper {
+  width: 80%;
+  margin: auto;
+  background-color: sienna;
+  box-shadow: 25px 25px 5px salmon;
+}
+
+div {
+  width: 90%;
+  margin: auto;
+}
+
+.itembox {
+  border-style: inset;
+  border-radius: 25px;
+  box-shadow: 30px 30px 5px grey;
+  background-color: darkgoldenrod;
+  color: AliceBlue;
+  padding: 50px 50px 50px 50px;
+}
+
+.favorite {
+  border-style: dotted;
+  border-radius: 50px;
+  box-shadow: 30px 30px 5px grey;
+  background-color: purple;
+  color: Bisque;
+  padding: 50px 50px 50px 50px;
+}
+
+ul {
+  background-color: Black;
+  color: White;
+  list-style-type: katakana;
+}
+
+ol {
+  background-color: White;
+  color: Black;
+  list-style-type: hiragana;
+}
+
+a {
+  float: left;
+  border-style: dotted;
+  
+}  
+
+nav {
+  padding-bottom: 50px;
+  border-style: dashed;
+}
